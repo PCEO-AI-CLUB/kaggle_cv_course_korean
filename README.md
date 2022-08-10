@@ -11,7 +11,7 @@
 | 최대 pooling (Maximum Pooling) | [링크](https://www.kaggle.com/code/vkehfdl1/pooling-tutorial/notebook?scriptVersionId=102629245) | [링크](https://www.kaggle.com/code/vkehfdl1/pooling/notebook) |
 | The Sliding Window | [링크](https://www.kaggle.com/code/hyunwookkwon/the-sliding-windows-ver-kor) | [링크](https://www.kaggle.com/code/hyunwookkwon/exercise-the-sliding-window-ver-kor) |
 | 나만의 합성곱 신경망 (Custom Convnets) | [링크](https://www.kaggle.com/code/edaeastsidegunn/custom-convnets) | [링크](https://www.kaggle.com/code/edaeastsidegunn/exercise-custom-convnets?scriptVersionId=102631443) |
-| 데이터 증대 (Data Augmentation) | [준비중]() | [준비중]() |
+| 데이터 증대 (Data Augmentation) | [링크](https://www.kaggle.com/code/hyunwookkwon/data-augmentation-ver-kor) | [링크](https://www.kaggle.com/code/hyunwookkwon/exercise-data-augmentation) |
 
 # License
 All right reserved 2022, EDA.
