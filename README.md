@@ -6,11 +6,11 @@
 
 | 수업명 | 튜토리얼 | 실습 |
 | ----- | --- | --- |
-| 합성곱 분류기 (The Convolutional Classifier) | [준비중]() | [준비중]() |
+| 합성곱 분류기 (The Convolutional Classifier) | [링크](https://www.kaggle.com/code/edaeastsidegunn/the-convolutional-classifier?scriptVersionId=102957826) | [링크](https://www.kaggle.com/code/donggeonhan/exercise-the-convolutional-classifier-korean-ver/notebook?scriptVersionId=102954459) |
 | 합성곱 및 ReLU (Convolution and ReLU) | [링크](https://www.kaggle.com/code/vkehfdl1/relu-tutorial?scriptVersionId=102594762) | [링크](https://www.kaggle.com/code/vkehfdl1/convolution-and-relu-korean-ver/notebook) |
 | 최대 pooling (Maximum Pooling) | [링크](https://www.kaggle.com/code/vkehfdl1/pooling-tutorial/notebook?scriptVersionId=102629245) | [링크](https://www.kaggle.com/code/vkehfdl1/pooling/notebook) |
 | The Sliding Window | [링크](https://www.kaggle.com/code/hyunwookkwon/the-sliding-windows-ver-kor) | [링크](https://www.kaggle.com/code/hyunwookkwon/exercise-the-sliding-window-ver-kor) |
-| 커스텀 합성곱 신경망 (Custom Convnets) | [준비중]() | [준비중]() |
+| 나만의 합성곱 신경망 (Custom Convnets) | [링크](https://www.kaggle.com/code/edaeastsidegunn/custom-convnets) | [링크](https://www.kaggle.com/code/edaeastsidegunn/exercise-custom-convnets?scriptVersionId=102631443) |
 | 데이터 증대 (Data Augmentation) | [준비중]() | [준비중]() |
 
 # License
